@@ -1,1 +1,1 @@
-I pretty easily vibe-coded a script that when ran on the website (with the word pop and kpop searched up) gets every single song on the webpage and puts it into a .txt file. I combined two of the .txt files into one and also removed all the spaces inbetween the notes.
+This repository contains a script that extracts song data from a webpage search (using the keywords “pop” and “kpop”) and compiles it into .txt files. The outputs were merged into a single dataset with normalized formatting.

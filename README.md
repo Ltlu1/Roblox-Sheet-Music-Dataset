@@ -1,1 +1,1 @@
-This repository contains a script that extracts song data from a webpage search (using the keywords “pop” and “kpop”) and compiles it into .txt files. The outputs were merged into a single dataset with normalized formatting.
+This repository used a script that extracts song data from a webpage search (using the keywords “pop” and “kpop”) and compiles it into .txt files. The outputs were merged into a single dataset with normalized formatting.
